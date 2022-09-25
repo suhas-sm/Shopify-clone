@@ -5,9 +5,9 @@ This has also been made mobile responsive for better view using Tailwind CSS
 Hope you like my project !!
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
+  - HTML 
   - Tailwind css - A Utility First Framework of CSS
-  - CSS - Cascading Spread Sheet
+  - CSS
 
 ## Demo
 ### Laptop View
@@ -29,10 +29,6 @@ Go to the project directory
 ```bash
   cd Shopify-clone
 ```
-## Author and Contact
-- [Find-coder](https://www.findcoder.io/u/suhas_sm)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
 
 ## Features
 

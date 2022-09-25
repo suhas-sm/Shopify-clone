@@ -4,12 +4,12 @@ This is basically a clone of [Shopify](https://shopify.com/) made purely in HTML
 This has also been made mobile responsive for better view using Tailwind CSS
 Hope you like my project !!
 
-## 🛠 Technologies Used
+## Technologies Used
   - HTML - Hyper Text Markup Language
   - Tailwind css - A Utility First Framework of CSS
   - CSS - Cascading Spread Sheet
 
-## 🚩 Demo
+## Demo
 ### Laptop View
 ![page-img](./Demo1.PNG)
 
@@ -29,16 +29,14 @@ Go to the project directory
 ```bash
   cd Shopify-clone
 ```
-## ✍️ Author and 📞 Contact
+## Author and Contact
 - [Find-coder](https://www.findcoder.io/u/suhas_sm)
     - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
     - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
 
-## 📝 Features
+## Features
 
-- Royalty Free Images used
 - Hover Effect
-- Beautifull UI/UX Design
 - Clone Website
 - Hosted on Netlify and set up in production
 - Tried to replicate Shopify website
@@ -46,12 +44,12 @@ Go to the project directory
 - Made it mobile responsive
 - Fully Responsive in all screens
 
-## 🤔 What i have learnt By working on this project
+## What i have learnt By working on this project
 1. Got a good understanding of mobile first tailwind CSS and making it responsive in all screens.
 
-## 😌 Honest Time to finish the project
+## Honest Time to finish the project
 
 I had took about 10 hrs.
 
-## 👀 Feedback
+## Feedback
 If you have any feedback, please reach out to us at melmurissm11@gmail.com

@@ -1,4 +1,4 @@
-# Shopify-Clone [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Shopify-Clone
 
 This is basically a clone of [Shopify](https://shopify.com/) made purely in HTML5 and tailwind css a utility first css Framework.
 This has also been made mobile responsive for better view using Tailwind CSS
